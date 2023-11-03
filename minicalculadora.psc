@@ -19,7 +19,7 @@ Algoritmo minicalculadora
 	 sino
 		 si (opcion=3) Entonces
 			 num_res = num_a * num_b
-			 Escribir "La multipliación de " num_a " y de " num_b " es de " num_res
+			 Escribir "La multipliación de los numeros " num_a " y de " num_b " es de " num_res
 		 SiNo
 			 si (opcion=4) Entonces
 				 num_res = num_a / num_b
